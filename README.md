@@ -1,6 +1,6 @@
 # basement_app
 
-A new Flutter project.
+A flutter App with some basic components and custom widget.
 
 ## Getting Started
 
